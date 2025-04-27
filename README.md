@@ -72,7 +72,3 @@ When you first run the app, it will request permission to access your location. 
 - Expo Location API
 - React Hooks
 - Fetch API
-
-## License
-
-This project is licensed under the MIT License.
